@@ -17,4 +17,6 @@ In this project, I created some business questions/tasks that need to be address
 12. Create a function to generate the average salary of an employee
 
 The tool involved in this project is MySQL and took approximately 2 hours to complete this project. 
-Feel free to download the SQL files; employees database and my SQL code.
+
+This repository includes the SQL files; employees database and my SQL code. Feel free to download them to see how I approach these business tasks. 
+Enjoy. 
